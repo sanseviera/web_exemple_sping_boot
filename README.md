@@ -6,4 +6,3 @@
 
 # Swagger
 * http://localhost:8080/swagger-ui/index.html#/ (https://www.youtube.com/watch?v=Eo6v01KUeZM)
-* Lors du lancement du projet un mot de passe est créé et affiché dans la console pour se connecter a swagger. L'ID est user.

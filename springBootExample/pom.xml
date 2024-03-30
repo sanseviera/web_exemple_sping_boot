@@ -39,10 +39,14 @@
     		<version>2.0.2</version>
 		</dependency>
 
-		<!-- Security  -->
+		<!--
+			DevTools 
+			Permet nottament le reload automatique de l'application
+		-->
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
+    		<groupId>org.springframework.boot</groupId>
+    		<artifactId>spring-boot-devtools</artifactId>
+    		<optional>true</optional>
 		</dependency>
 
 	</dependencies>
